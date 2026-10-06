@@ -7,9 +7,6 @@
 | [IneedBetterNames](https://github.io) | *New project* |
 | [lemon](https://github.io) | Lemon-ckr |
 | [Predefined](https://github.io) | Mspr |
-
-
-
 | A| Description / Notes |
 | [MinSwpr](https://github.io) | Minesweeper clone |
 | [Freddy](https://github.io) | FNAF-inspired fan game |
