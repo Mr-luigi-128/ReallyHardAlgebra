@@ -1,1 +1,22 @@
-# ReallyHardAlgebra
+mr-luigi-128.github.io/CalculatorTest
+Mar/10
+________
+mr-luigi-128.github.io/HowToMakeBeefWellington
+BadTimeSim
+_________
+mr-luigi-128.github.io/I-wtr
+MinSwpr
+________
+New
+mr-luigi-128.github.io/IneedBetterNames
+Freddy
+________
+mr-luigi-128.github.io/lemon
+Bad_Clkr
+________
+mr-luigi-128.github.io/tetris.html
+Self explanatory
+_________
+mr-luigi-128.github.io/Predefined
+hard
+_________
